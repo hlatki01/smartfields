@@ -1,6 +1,6 @@
 # Smart-Fields-examples
 
-[See them in action!](https://dlocal.github.io/smart-fields-examples/)
+[See them in action!](https://hlatki01.github.io/smartfields/)
 
 This repository contains examples of stylish forms that use SmartFields. These examples illustrate how to handle errors in real-time and style focus states, error states, and placeholders.
 
